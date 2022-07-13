@@ -7,7 +7,7 @@
 ╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚══════╝╚═╝░░░░░╚═╝
 
 # pholm_fix
-Meget simpelt fix scripts
+# Meget simpelt fix scripts
 
 // Opsætnings Guide
 Scriptet er bare dragNdrop, du skal simpelthen bare smide det ind i din resource mappe.
